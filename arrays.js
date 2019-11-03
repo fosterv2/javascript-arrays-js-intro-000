@@ -17,6 +17,3 @@ function destructivelyAddElementToEndOfArray (arr, elem) {
   arr = [...arr, elem]
   return arr
 }
-
-
-
